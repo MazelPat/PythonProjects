@@ -1,4 +1,4 @@
 __author__ = 'pmazel'
 
-print('Hello')
-
+print('Hello ')
+print('Le Monde !')
